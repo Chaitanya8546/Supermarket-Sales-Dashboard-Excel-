@@ -104,6 +104,8 @@ The dashboard helps:
 ---
 ## 👀🔎 Preview / Demo
 
+https://github.com/Chaitanya8546/Supermarket-Sales-Dashboard-Excel-/blob/main/Preview.png
+
 
 ## 👨‍💻 Author
 **Chaitanya Hegde**  
